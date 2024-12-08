@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12462213ee31aca4790b82df36039a39, type: 3}
+  m_Name: Actors
+  m_EditorClassIdentifier: 
+  <Player>k__BackingField: {fileID: 11400000, guid: 7d5d43e5ab6095e4aafc4a68647ae3de, type: 2}
+  <Enemies>k__BackingField:
+  - {fileID: 11400000, guid: 947d73d204610da4c97caaf7525db4ee, type: 2}
+  - {fileID: 11400000, guid: 2b891507c52cab84199b4d3d706b25dc, type: 2}
+  - {fileID: 11400000, guid: bd993cb16d9af094bb59d46a83659153, type: 2}
+  - {fileID: 11400000, guid: 88680841001f50b4e94feef06c486dc4, type: 2}
+  - {fileID: 11400000, guid: 2746e68a1e4cd08489f36fee3289e3d1, type: 2}
+  <EnemySpawnIntervalRange>k__BackingField: {x: 1, y: 10}
